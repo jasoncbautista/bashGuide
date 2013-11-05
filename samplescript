@@ -1,6 +1,12 @@
 #! /usr/bin/env bash
+# Usage: 
+# samplescript 
+# Here is a very simple script
+
+
+
 # set -xv
-
-
-
 echo "Start of script"
+
+
+

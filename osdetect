@@ -1,0 +1,13 @@
+# !/usr/bin/env bash
+# Usage:
+# 	osdetect
+# A simple script to detect the OS the user is on:
+
+
+platform="unknown"
+unameResult=$(uname)
+
+echo "Your seem to be running: "$unameResult""
+
+
+
